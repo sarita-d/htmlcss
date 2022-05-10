@@ -1,0 +1,20 @@
+body {
+    font-family: "Poppins", sans-serif;
+    color: #000000;
+    background-color: #ffffff;
+  }
+  
+  .body-bg {
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .verde {
+      color: rgb(66, 197, 14);
+  }
+  .sarita {
+    color: rgb(241, 238, 13);
+
+}
+.color{
+    color: rgb(218, 13, 13);
+}
